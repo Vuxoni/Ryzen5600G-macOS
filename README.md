@@ -1,0 +1,1 @@
+# Ryzen5600G-macOS
